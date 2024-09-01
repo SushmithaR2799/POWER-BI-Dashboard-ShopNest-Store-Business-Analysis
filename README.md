@@ -1,5 +1,7 @@
 # Project Description: ShopNest Store Business Analytics Dashboard
 
+![Screenshot 2024-09-01 224356](https://github.com/user-attachments/assets/43200fa4-206f-4d24-9ef1-7869f391d6ab)
+
 ## Overview
 The ShopNest Store Business Analytics Dashboard is a comprehensive tool designed to provide detailed insights into the e-commerce performance of ShopNest, a leading department store in Portugal's online retail market. This project leverages Power BI to visualize critical business metrics, offering stakeholders a clear understanding of market trends, consumer behavior, and operational efficiency. The dashboard is structured to empower decision-makers with data-driven insights that can enhance business strategies, optimize operations, and improve customer satisfaction.
 
